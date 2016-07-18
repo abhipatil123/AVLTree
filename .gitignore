@@ -12,6 +12,7 @@
 hs_err_pid*
 
 # Intellij
+target/*
 .idea/
 .idea/*
 *.iml
